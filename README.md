@@ -1,3 +1,1 @@
-- 👀 I’m interested in SQL
-- 🌱 I’m currently learning PowerBI
-- 💞️ I’m looking to collaborate on TSQL
+
